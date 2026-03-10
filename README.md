@@ -116,6 +116,6 @@ This project is open-source and available for educational and research purposes.
 
 <p>
 <b>Muhammad Faique Bin Shahid</b><br>
-Robotics & Intelligent Systems Student<br>
+<br>
 Interested in AI, Robotics, and Entrepreneurship.
 </p>
