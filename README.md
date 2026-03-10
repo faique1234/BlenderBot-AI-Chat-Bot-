@@ -29,7 +29,7 @@ through a browser in real time.
 <p>Clone the repository:</p>
 
 <pre>
-git clone https://github.com/yourusername/blenderbot-gradio-chatbot.git
+git clone [(https://github.com/faique1234/BlenderBot-AI-Chat-Bot-/]
 cd blenderbot-gradio-chatbot
 </pre>
 
